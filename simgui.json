@@ -1,0 +1,47 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/MAIN/Auto Mode": "String Chooser",
+      "/SmartDashboard/Field": "Field2d"
+    }
+  },
+  "NetworkTables": {
+    "CameraPublisher": {
+      "USB Camera 0": {
+        "open": true
+      }
+    },
+    "LiveWindow": {
+      "open": true
+    },
+    "Shuffleboard": {
+      ".metadata": {
+        "Collector": {
+          "open": true
+        },
+        "Drivetrain": {
+          "open": true
+        }
+      },
+      "open": true
+    },
+    "Usage": {
+      "Client": {
+        "Dashboard": {
+          "open": true
+        },
+        "open": true
+      }
+    },
+    "VisionBox": {
+      "config": {
+        "open": true
+      },
+      "open": true,
+      "output": {
+        "open": true
+      }
+    }
+  }
+}
